@@ -7,6 +7,8 @@ Algoritmo Ejercicio2
 	
 	Mientras contador > 1 Hacer
 		
+		contador = contador -1 
+		Escribir  contador
 		
 	Fin Mientras
 	
